@@ -98,7 +98,6 @@ const Home: NextPage = () => {
         <meta property="og:title" content={t(`siteTitle`)} />
         <meta property="og:description" content={t(`siteDescription`)} />
         <meta property="og:url" content={URL} />
-        <meta property="og:image" content="https://i.imgur.com/F5R0K03.png" />
       </Head>
 
       <Header />
