@@ -12,9 +12,9 @@ export default function Header() {
           height={50}
         />
         <span className="text-lg">
-          Notion
+          头像
           <br />
-          Avatar Maker
+          魔法师
         </span>
       </div>
       <Decoration className="absolute top-0 right-0 w-24 sm:w-28 md:w-36" />
