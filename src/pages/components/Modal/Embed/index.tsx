@@ -30,7 +30,7 @@ export default function EmbedModal({
 
   useEffect(() => {
     setUrl(
-      `${process.env.NEXT_PUBLIC_URL}/api/${apiType[imageType]}/${btoa(
+      `https://av.zoz.la/api/${apiType[imageType]}/${btoa(
         JSON.stringify(config),
       )}`,
     );
