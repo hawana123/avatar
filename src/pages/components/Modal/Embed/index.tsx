@@ -36,7 +36,6 @@ export default function EmbedModal({
     );
   }, []);
 
-
   return (
     <Modal onCancel={onCancel}>
       <div className="bg-white px-4 pt-5 pb-4 sm:p-6 sm:pb-4">
