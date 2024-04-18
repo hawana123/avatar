@@ -12,6 +12,11 @@ class Document extends NextDocument {
             async
             src="https://hm.baidu.com/hm.js?68b9a44d9afb05aacddb2d8d289f3119"
           />
+          <script
+            async
+            src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7361597277581518"
+            crossOrigin="anonymous"
+          />
         </Head>
         <body className="font-bold">
           <Main />
