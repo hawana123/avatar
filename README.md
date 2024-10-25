@@ -10,7 +10,7 @@ An online tool for making notion-style avatars.
 I18n supported:
 
 - [English](https://notion-avatar.vercel.app/en)
-- [简体中文](https://notion-avatar.vercel.app/zh)
+- [简体中文](git )
 - [한국어](https://notion-avatar.vercel.app/ko)
 
 ## Styles

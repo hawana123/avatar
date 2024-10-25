@@ -23,7 +23,10 @@ export default function Header() {
           alt="xiaochengxu"
           width={260}
           height={260}
-        />扫一扫<br />微信小程序体验
+        />
+        扫一扫
+        <br />
+        微信小程序体验
       </div>
       {/* <Decoration className="absolute top-0 right-0 w-24 sm:w-28 md:w-36" /> */}
     </header>
